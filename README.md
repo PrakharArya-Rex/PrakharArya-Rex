@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrakharArya-Rex
-- 👀 I’m interested in Coding, learning skills and problem-solving.
-- 🌱 I’m currently learning Python and SQL
-- 💞️ I’m looking to participate in projects and tournaments
+- 👀 I’m interested in Coding, Learning coding oriented skills and Real-time problem-solving.
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking forward to participate in projects and tournaments
 - 📫 How to reach me:
 Instagram @realprakhararya
 Twitter @RangerStranger9
