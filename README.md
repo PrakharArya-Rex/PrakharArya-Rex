@@ -1,15 +1,15 @@
 ### Hello World, I'm Prakhar  👋
 
- <img align="right" alt="GIF" src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/blob/main/cool.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/blob/main/cool.gif?raw=true" width="250" height="160" />
 
 ## Hey there avid coding enthisiast here, @PrakharArya-Rex!!
-- - 👀 I’m interested in software development and ML research
-- - 🔭 I’m actively working in computer vision research.
-- - 🌱 I’m currently doing competitive coding and hoping to develop my skills
-- - 💞️ I’m looking forward to participate in competitions and collaborating on projects.
-- - ⚡ Fun fact: I love debating and have participated in several literary competitions. Always ready to bring ideas on the table
-- - ✍ My hobbies include listening to metal and journaling
-- - 📫 Free feel to reach ame at prakhararya13@outlook.com ready to take up challenges
+- 👀 I’m interested in software development and ML research
+- 🔭 I’m actively working in computer vision research.
+- 🌱 I’m currently doing competitive coding and hoping to develop my skills
+- 💞️ I’m looking forward to participate in competitions and collaborating on projects.
+- ⚡ Fun fact: I love debating and have participated in several literary competitions. Always ready to bring ideas on the table
+- ✍ My hobbies include listening to metal and journaling
+- 📫 Free feel to reach ame at prakhararya13@outlook.com ready to take up challenges
  
 ### Welcoming you to my awesome world!!:
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
