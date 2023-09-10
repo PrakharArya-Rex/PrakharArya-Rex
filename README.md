@@ -9,7 +9,7 @@
 - 💞️ I’m looking forward to participate in competitions and collaborating on projects.
 - ⚡ Fun fact: I love debating and have participated in several literary competitions. Always ready to bring ideas on the table
 - ✍ My hobbies include listening to metal and journaling
-- 📫 Free feel to reach ame at prakhararya13@outlook.com ready to take up challenges
+- 📫 Free feel to reach me at prakhararya13@outlook.com ready to take up challenges
  
 ### Welcoming you to my awesome world!!:
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
