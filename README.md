@@ -15,11 +15,11 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
-[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebok]
+[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][Facebook]
 [<img align="left" alt="Discord" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 [<img align="left" alt="Reddit" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />][Reddit]
 [<img align="left" alt="Tumblr" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tumblr.svg" />][Tumblr]
-[<img align="left" alt="Pinterest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Pinterest]
+[<img align="left" alt="Pinterest" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pinterest.svg" />][Pinterest]
 
 <!---
 PrakharArya-Rex/PrakharArya-Rex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
