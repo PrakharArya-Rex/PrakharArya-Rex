@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @PrakharArya-Rex
-- 👀 I’m interested in Coding, Learning coding oriented skills and Real-time problem-solving.
-- 🌱 I’m currently learning basics different languages, data structures on AI and ML algoritms
-- 💞️ I’m looking forward to participate in projects and tournaments.
+### Hello World, I'm Prakhar  👋
+
+## Hey there avid coding enthisiast @PrakharArya-Rex!!
+- 👀 I’m interested in software development and ML research
+- 🌱 I’m currently doing competitive and actively working on computer vision research
+- 💞️ I’m looking forward to participate in competitions and for collaborating projects.
 - 📫 How to reach me:
 - Instagram @realprakhararya
 - Twitter @RangerStranger9
