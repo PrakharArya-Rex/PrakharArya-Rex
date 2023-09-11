@@ -1,13 +1,13 @@
 ### Hello World, I'm Prakhar  👋
 
- <img align="right" alt="GIF" src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/blob/main/cool.gif?raw=true" width="250" height="160" />
+ <img align="right" alt="GIF" src="https://github.com/PrakharArya-Rex/PrakharArya-Rex/blob/main/cool.gif?raw=true" width="300" height="200" />
 
 ## Hey there avid coding enthisiast here, @PrakharArya-Rex!!
 - 👀 I’m interested in software development and ML research
 - 🔭 I’m actively working in computer vision research.
 - 🌱 I’m currently doing competitive coding and hoping to develop my skills
 - 💞️ I’m looking forward to participate in competitions and collaborating on projects.
-- ⚡ Fun fact: I love debating and have participated in several literary competitions. Always ready to bring ideas on the table
+- ⚡ Fun fact: I love debating and have participated in several competitions.
 - ✍ My hobbies include listening to metal and journaling
 - 📫 Free feel to reach me at prakhararya13@outlook.com ready to take up challenges
  
