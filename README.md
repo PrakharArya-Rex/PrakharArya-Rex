@@ -64,6 +64,6 @@ You can click the Preview link to take a look at your changes.
 [Facebook]: https://www.facebook.com/prakhar.arya.543
 [Discord]: https://discord.com/users/prakhararyarex
 [Reddit]: https://www.reddit.com/user/Classy-Carnage
-[Tumblr]: https://www.tumblr.com/blog/realprakhararya
+[Tumblr]: https://www.tumblr.com/prakhararya
 [Pinterest]: https://in.pinterest.com/prakhararya13/
 [youtube]: https://www.youtube.com/channel/UC7q9gJt1ZpRN04wOalOnhpw
